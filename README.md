@@ -35,7 +35,7 @@ sales analytics, internal applications and operational automation.
 - traceable business logic, clean UX and safe releases.
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Devvy404&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&locale=en" alt="Devvy404 GitHub statistics">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Devvy404&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&locale=en&custom_title=Devvy404%20GitHub%20Stats" alt="Devvy404 GitHub statistics">
 </p>
 
 <p align="center">
