@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner.jpg" alt="Devvy404 — analytics, software and automation" width="100%">
+  <img src="https://raw.githubusercontent.com/Devvy404/Devvy404/main/assets/profile-banner.jpg?v=20260812-2" alt="Devvy404 profile banner" width="100%">
 </p>
 
 <h1 align="center">Devvy404</h1>
@@ -30,7 +30,7 @@ sales analytics, internal applications and operational automation.
 ## Current focus
 
 ```text
-real-estate products  ·  financial modelling  ·  analytics  ·  automation
+real-estate products  |  financial modelling  |  analytics  |  automation
 ```
 
 Most of my production work lives in private repositories. The contribution
@@ -48,6 +48,8 @@ protected.
 
 <p align="center">
   <a href="https://mostcalc.ru">Current product</a>
-  ·
+  |
   <a href="https://github.com/Devvy404?tab=repositories">Repositories</a>
 </p>
+
+<!-- Profile README refreshed: 2026-08-12 -->
