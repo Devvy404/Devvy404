@@ -23,35 +23,42 @@
   <img src="https://img.shields.io/badge/Automation-b91c1c?style=flat-square" alt="Automation">
 </p>
 
+## Featured work
+
+<p align="center">
+  <a href="https://mostcalc.ru">
+    <img src="https://mostcalc.ru/images/mostcalc-preview.jpg" alt="MOSCO Calc" width="100%">
+  </a>
+</p>
+
+<h3 align="center">MOSCO Calc</h3>
+
+<p align="center">
+  A production web platform for real-estate calculations, financial scenarios,<br>
+  pricing workflows and sales analytics.
+</p>
+
+<p align="center">
+  <a href="https://mostcalc.ru">
+    <img src="https://img.shields.io/badge/Open_live_product-EA2845?style=for-the-badge" alt="Open MOSCO Calc">
+  </a>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+</p>
+
+## What I build
+
+| Product engineering | Analytics | Automation |
+| --- | --- | --- |
+| React applications and calculation tools | Financial models, pricing and sales dashboards | Integrations and repeatable operational workflows |
+
 ## About
 
 I turn complex workflows, calculations and data into clear, reliable digital
-tools. My main focus is real-estate technology: financial models, pricing and
-sales analytics, internal applications and operational automation.
-
-- full-stack products with **React, TypeScript and Node.js**;
-- financial calculations, dashboards and data pipelines;
-- practical automation that reduces manual work and errors;
-- traceable business logic, clean UX and safe releases.
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Devvy404&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&locale=en&custom_title=Devvy404%20GitHub%20Stats" alt="Devvy404 GitHub statistics">
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Devvy404/Devvy404/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Devvy404/Devvy404/output/github-contribution-grid-snake.svg">
-    <img alt="Devvy404 contribution animation" src="https://raw.githubusercontent.com/Devvy404/Devvy404/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
+tools. I care about traceable business logic, clean UX and safe releases.
 
 <p align="center">
   <a href="https://mostcalc.ru">Current product</a>
   |
   <a href="https://github.com/Devvy404?tab=repositories">Repositories</a>
-</p>
-
-<p align="center">
-  <sub>Most production work is private; the contribution graph reflects active development.</sub>
 </p>
