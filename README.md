@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Devvy404/Devvy404/main/assets/profile-banner.jpg" alt="Devvy404 profile banner" width="100%">
 </p>
 
-<h1 align="center">Devvy404 / product-minded developer</h1>
+<h1 align="center">Commercial and financial director / product-minded developer</h1>
 
 <p align="center">
   Building real-estate tools, financial models, analytics and automation.
