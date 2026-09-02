@@ -23,28 +23,36 @@
   <img src="https://img.shields.io/badge/Automation-b91c1c?style=flat-square" alt="Automation">
 </p>
 
-## Featured work
+## Product ecosystem
 
-<p align="center">
-  <a href="https://mostcalc.ru">
-    <img src="https://mostcalc.ru/images/mostcalc-preview.jpg" alt="MOSCO Calc" width="100%">
-  </a>
-</p>
-
-<h3 align="center">MOSCO Calc</h3>
-
-<p align="center">
-  A production web platform for real-estate calculations, financial scenarios,<br>
-  pricing workflows and sales analytics.
-</p>
-
-<p align="center">
-  <a href="https://mostcalc.ru">
-    <img src="https://img.shields.io/badge/Open_live_product-EA2845?style=for-the-badge" alt="Open MOSCO Calc">
-  </a>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-</p>
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://mostcalc.ru">
+        <img src="assets/projects/mostcalc.png" alt="MostCalc icon" width="96" height="96">
+      </a>
+      <h3>MostCalc</h3>
+      <p>Multi-project calculation and sales platform for real-estate developers.</p>
+      <a href="https://mostcalc.ru"><strong>Open product →</strong></a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://finance.mostcalc.ru">
+        <img src="assets/projects/mostfinance.png" alt="MostFinance icon" width="96" height="96">
+      </a>
+      <h3>MostFinance</h3>
+      <p>Financial center for budgets, payment requests, registers and bank reconciliation.</p>
+      <a href="https://finance.mostcalc.ru"><strong>Open product →</strong></a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://project.mostcalc.ru">
+        <img src="assets/projects/mostproject.png" alt="MostProject icon" width="96" height="96">
+      </a>
+      <h3>MostProject</h3>
+      <p>Project modelling workspace for sales plans, scenarios and versioned forecasts.</p>
+      <a href="https://project.mostcalc.ru"><strong>Open product →</strong></a>
+    </td>
+  </tr>
+</table>
 
 ## What I build
 
