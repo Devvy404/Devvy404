@@ -943,12 +943,17 @@
                       <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z" />
                       <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.6 0,2.6 z" />
                       <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.6 1.7,3.6 z" />
+                    </g>
+                    <g transform="translate(-5.1, 7.5600000000000005)">
+                      <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z" />
+                      <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.44 0,2.44 z" />
+                      <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.44 1.7,3.44 z" />
                     </g></g></g></svg>
 <path d="M32 340H428" stroke="#263241"/>
 <text x="32" y="372" fill="#e6edf3" font-size="20" font-weight="600">12 days</text>
 <text x="32" y="394" fill="#7f95ad" font-size="12">Best streak</text>
 <text x="190" y="372" fill="#e6edf3" font-size="20" font-weight="600">75</text>
 <text x="190" y="394" fill="#7f95ad" font-size="12">Peak / day</text>
-<text x="340" y="372" fill="#e6edf3" font-size="20" font-weight="600">7.01</text>
+<text x="340" y="372" fill="#e6edf3" font-size="20" font-weight="600">7.07</text>
 <text x="340" y="394" fill="#7f95ad" font-size="12">Daily average</text>
 </g></svg>
